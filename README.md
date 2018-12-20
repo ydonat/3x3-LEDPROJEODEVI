@@ -1,2 +1,1 @@
-# deneme
-dnemeiçinj
+ görüntü işleme ödevi
